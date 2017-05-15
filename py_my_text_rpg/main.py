@@ -1,3 +1,8 @@
+"""
+micah 
+micah.wood@icloud.com
+"""
+
 import random
 
 def end():
